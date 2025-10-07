@@ -26,3 +26,5 @@ mkosi vm
 ## issues
 If you have an issue, please make a pull request with the issue in a markdown file inside the `issues/` folder.
 
+## license
+LGPL-2.1+, see [LICENSE file](./LICENSE)
